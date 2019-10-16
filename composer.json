@@ -1,0 +1,21 @@
+{
+    "name": "zhaolicheng89/sms",
+    "description": "短信模块",
+    "authors": [
+        {
+            "name": "licheng Zhao"
+        }
+    ],
+    "license": "MIT",
+    "keywords": [
+        "payment"
+    ],
+    "autoload": {
+        "psr-4": {
+            "sms\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
